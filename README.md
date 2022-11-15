@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Norbhi
+- 👀 I’m interested in web development...
+- 🌱 I’m currently learning phython django...
+- 💞️ I’m looking to collaborate on more web development...
+- 📫 Always welcome for suggestions
+<!---
+Norbhi/Norbhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
